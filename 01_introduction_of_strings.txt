@@ -1,0 +1,1 @@
+Strings is a character type array, which stores character and words as array, shubham jha
